@@ -7,7 +7,7 @@ int main(void) {
     scanf(" %d", &i);
     while ( i != 0)
     {
-        printf("Faltam %i segundos para terminar teste\n", i);
+        printf("Faltam %i segundos para terminar o teste\n", i);
         sleep(1);
         i--;
     }
