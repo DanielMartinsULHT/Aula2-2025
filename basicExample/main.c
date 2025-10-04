@@ -3,7 +3,7 @@
 
 int main(void) {
     int i = 8;
-    printf ("Quantos segundos faltam?\n");
+    printf ("Quantos segundos faltam agora?\n");
     scanf(" %d", &i);
     while ( i != 0)
     {
